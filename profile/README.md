@@ -1,4 +1,6 @@
 # PsyCare
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PsyCare-org/.github/blob/main/profile/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/PsyCare-org/.github/blob/main/profile/README.pt-br.md)
 
 ### PsyCare is my course completion work for my bachelor's degree in computer science at [URI](https://www.uricer.edu.br/site/).
 
