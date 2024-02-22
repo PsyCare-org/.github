@@ -16,7 +16,7 @@ O trabalho trata-se de uma plataforma de acompanhamento psicológico, que auxili
 
 ## Arquitetura
 A arquitetura base do sistema é apresentada da seguinte forma:
-![image info](./profile/images/diagram-pt.png)
+![image info](./images/diagram-pt.png)
 * **Cliente** - Cliente da aplicação feito com ReactJS, o código fonte está no repositório [psycare-web](https://github.com/PsyCare-org/psycare-web);
 * **Servidor** - Servidor da aplicação feito em NestJS, o código fonte está no repositório [psycare-api](https://github.com/PsyCare-org/psycare-api);
 * **Banco de Dados** - Banco de dados da aplicação em PostgreSQL;
