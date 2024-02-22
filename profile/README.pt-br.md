@@ -1,4 +1,6 @@
 # PsyCare
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PsyCare-org/.github/blob/main/profile/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/PsyCare-org/.github/blob/main/profile/README.pt-br.md)
 
 ### PsyCare é meu trabalho de conclusão de curso para o bacharelado de ciência da computação pela [URI](https://www.uricer.edu.br/site/). 
 
@@ -14,7 +16,7 @@ O trabalho trata-se de uma plataforma de acompanhamento psicológico, que auxili
 
 ## Arquitetura
 A arquitetura base do sistema é apresentada da seguinte forma:
-![image info](./images/diagram-pt.png)
+![image info](./profile/images/diagram-pt.png)
 * **Cliente** - Cliente da aplicação feito com ReactJS, o código fonte está no repositório [psycare-web](https://github.com/PsyCare-org/psycare-web);
 * **Servidor** - Servidor da aplicação feito em NestJS, o código fonte está no repositório [psycare-api](https://github.com/PsyCare-org/psycare-api);
 * **Banco de Dados** - Banco de dados da aplicação em PostgreSQL;

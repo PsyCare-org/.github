@@ -14,7 +14,7 @@ The work is a psychological support platform, which assists both the patient and
 
 ## Architecture
 The base architecture of the system is presented as follows:
-![image info](./images/diagram-en.png)
+![image info](./profile/images/diagram-en.png)
 * **Client** - Application client made with ReactJS, the source code is in the [psycare-web](https://github.com/PsyCare-org/psycare-web) repository;
 * **Server** - Application server made in NestJS, the source code is in the repository [psycare-api](https://github.com/PsyCare-org/psycare-api);
 * **Database** - Application database in PostgreSQL;
